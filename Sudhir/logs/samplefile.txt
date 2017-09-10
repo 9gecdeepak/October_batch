@@ -1,0 +1,1 @@
+You should place your log files of pam library in this directory
