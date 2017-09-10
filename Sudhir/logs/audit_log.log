@@ -1,0 +1,14 @@
+
+
+
+
+2017-05-27 22:31:13,187 - INFO - root - Started program Execution...
+2017-05-27 22:31:13,188 - INFO - root - Started Zero BYTE file Validation for file- dri.csv
+2017-05-27 22:31:13,188 - INFO - root - The input file C:\Users\Deep\PycharmProjects\Data_Engineering\data\input\dri.csv does not contain data
+2017-05-27 22:31:13,188 - INFO - root - Halting the further processing of this file.
+2017-05-27 22:31:13,188 - INFO - root - File is Zero
+2017-05-27 22:31:13,188 - INFO - root - Started Zero BYTE file Validation for file- drivers.csv
+2017-05-27 22:31:13,188 - INFO - root - Started file Duplicacy check for file- drivers.csv
+2017-05-27 22:31:13,190 - INFO - root - The input file C:\Users\Deep\PycharmProjects\Data_Engineering\data\input\drivers.csv has already been processed in past
+2017-05-27 22:31:13,190 - INFO - root - Halting the further processing of this file.
+2017-05-27 22:31:13,190 - INFO - root - File is DUPLICATE
